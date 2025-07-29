@@ -56,5 +56,6 @@ php artisan key:generate
 php artisan serve
 ```
 ## Note :
-login admin bisa menggunakan user : admin password : P@ssword123
+login admin bisa menggunakan 
+user : admin password : P@ssword123
 login mahasiswa bisa menggunakan user : dede password : P@ssword123
