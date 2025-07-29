@@ -37,6 +37,7 @@ Project pembuatan sistem management akademik
 - Clone Project dari Github :
 ```shell
 https://github.com/devanlustig/simaks.git
+```
 - Buat .env dari file .env.example
 - Jalankan perintah :
 ```shell
