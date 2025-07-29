@@ -166,6 +166,9 @@
                 </div>
               </form>
 
+              user : admin || password : P@ssword123 <br>
+              user : dede  || password : P@ssword123
+
             <!--   <p class="text-center">
                 <span>New on our platform?</span>
                 <a href="{{ route('register') }}">
